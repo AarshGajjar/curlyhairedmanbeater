@@ -1,6 +1,6 @@
 // Completed workouts are stored locally on the device as food-and-drink rewards.
 const KEY = 'curlyhairedmanbeater-rewards-v1';
-export const REWARDS = { softy: 'coffee softy' };
+export const REWARDS = { softy: 'filter coffee softy' };
 
 export function loadRewards() {
   try {
